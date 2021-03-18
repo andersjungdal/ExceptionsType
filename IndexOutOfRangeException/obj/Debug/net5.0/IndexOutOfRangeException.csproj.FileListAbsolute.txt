@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\IndexOutOfRangeException.exe
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\IndexOutOfRangeException.deps.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\IndexOutOfRangeException.runtimeconfig.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\IndexOutOfRangeException.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\IndexOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\ref\IndexOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\bin\Debug\net5.0\IndexOutOfRangeException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\ref\IndexOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\IndexOutOfRangeException\obj\Debug\net5.0\IndexOutOfRangeException.genruntimeconfig.cache

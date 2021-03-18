@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\InvalidCastException.exe
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\InvalidCastException.deps.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\InvalidCastException.runtimeconfig.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\InvalidCastException.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\InvalidCastException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\ref\InvalidCastException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\bin\Debug\net5.0\InvalidCastException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\ref\InvalidCastException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\InvalidCastException\obj\Debug\net5.0\InvalidCastException.genruntimeconfig.cache

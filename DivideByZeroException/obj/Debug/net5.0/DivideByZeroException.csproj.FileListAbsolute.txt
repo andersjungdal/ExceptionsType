@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\DivideByZeroException.exe
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\DivideByZeroException.deps.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\DivideByZeroException.runtimeconfig.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\DivideByZeroException.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\DivideByZeroException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\ref\DivideByZeroException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\bin\Debug\net5.0\DivideByZeroException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\ref\DivideByZeroException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\DivideByZeroException\obj\Debug\net5.0\DivideByZeroException.genruntimeconfig.cache

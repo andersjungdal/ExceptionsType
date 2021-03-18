@@ -1,0 +1,16 @@
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ArgumentOutOfRangeException.exe
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ArgumentOutOfRangeException.deps.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ArgumentOutOfRangeException.runtimeconfig.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ArgumentOutOfRangeException.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ArgumentOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ref\ArgumentOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\bin\Debug\net5.0\ArgumentOutOfRangeException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ref\ArgumentOutOfRangeException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\ArgumentOutOfRangeException\obj\Debug\net5.0\ArgumentOutOfRangeException.genruntimeconfig.cache

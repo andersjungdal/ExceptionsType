@@ -1,0 +1,15 @@
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\OutOfMemoryException.exe
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\OutOfMemoryException.deps.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\OutOfMemoryException.runtimeconfig.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\OutOfMemoryException.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\OutOfMemoryException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\ref\OutOfMemoryException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\bin\Debug\net5.0\OutOfMemoryException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\ref\OutOfMemoryException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\OutOfMemoryException\obj\Debug\net5.0\OutOfMemoryException.genruntimeconfig.cache

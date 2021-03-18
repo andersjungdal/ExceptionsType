@@ -1,0 +1,16 @@
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\NullReferenceException.exe
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\NullReferenceException.deps.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\NullReferenceException.runtimeconfig.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\NullReferenceException.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\NullReferenceException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\ref\NullReferenceException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\bin\Debug\net5.0\NullReferenceException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\ref\NullReferenceException.dll
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.pdb
+C:\Users\ander\Desktop\Kode_2020\Exceptions\NullReferenceException\obj\Debug\net5.0\NullReferenceException.genruntimeconfig.cache
